@@ -1,0 +1,41 @@
+Unagiii logger file
+(Yeah, it's an ugly .txt file, but still...)
+(This makes things waaay better/easier/faster/lighter)
+53
+256
+.vscode
+ASCII
+C++.pdf
+HelloWorld
+HelloWorld+
+KeyPress
+Log.txt
+RandInt
+Test
+Unagiii
+VectorLib
+VVSTR
+.vscode
+ASCII
+C++.pdf
+HelloWorld
+HelloWorld+
+KeyPress
+Log.txt
+RandInt
+Test
+Unagiii
+VectorLib
+VVSTR
+.vscode
+ASCII
+C++.pdf
+HelloWorld
+HelloWorld+
+KeyPress
+Log.txt
+RandInt
+Test
+Unagiii
+VectorLib
+VVSTR
